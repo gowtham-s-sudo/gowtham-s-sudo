@@ -32,7 +32,7 @@
 ![Wordpress](https://img.shields.io/badge/CMS-Wordpress-blue)
 <br/>
 
-Last Edited on: 23/09/2020
+Last Edited on: 20/08/2021
 
 <!---
 gowtham-s-sudo/gowtham-s-sudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
