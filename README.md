@@ -7,7 +7,7 @@
 - 👨‍💻 I’m currently working on Ios app development and wordpress.
 - 📚 I’m currently learning everything about python and app development technologies
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- ⚡ Fun fact: I love custom roms on android.
 
 ---
 
@@ -18,8 +18,6 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
 ---
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 <br />
 
